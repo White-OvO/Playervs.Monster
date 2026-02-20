@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/imac/Desktop/UNLV/UNLV Spring 2026/CS135/Cs135-InPerson/week4/week5",
+      "program": "/Users/imac/Desktop/UNLV/UNLV Spring 2026/CS135/Cs135-InPerson/week4/week5/build/Debug/outDebug"
+    }
+  ]
+}
